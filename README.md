@@ -21,3 +21,6 @@
 
 # Project 7 Roll Dice!
 ![RollTheDice](https://user-images.githubusercontent.com/79992972/163702093-04bd54e6-4556-41ad-8f84-c7a9cea31fa6.PNG)
+
+# Project 8 Username Generator!
+![UserName](https://user-images.githubusercontent.com/79992972/163702185-2affc414-75d7-471b-81ad-5c926cfb26b4.PNG)
