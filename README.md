@@ -15,3 +15,6 @@
 # Project 5 MadLibs!
 ![MadLibs](https://user-images.githubusercontent.com/79992972/163701838-3d208fef-a395-4242-bf5a-25083b566e83.PNG)
 
+# Project 6 Rock Paper Scissor!
+![RockPaperScissor 2](https://user-images.githubusercontent.com/79992972/163701944-4fe9f7a9-572f-44be-8c88-5d56c2ccf9fc.PNG)
+![RockPaperScissors 1](https://user-images.githubusercontent.com/79992972/163701946-6df12d49-d3b1-4f3b-afd2-b8c79135804a.PNG)
