@@ -7,3 +7,8 @@
 
 # Project 3 Guess The Number!
 ![GuessTheNumber](https://user-images.githubusercontent.com/79992972/163700784-59032508-b013-416a-93c3-fd9bc9979f5a.PNG)
+
+# Project 4 Hangman!
+![Hangman 1](https://user-images.githubusercontent.com/79992972/163701631-37e7e323-e555-4821-9fd5-6f17881984db.PNG)
+![Hangman 2](https://user-images.githubusercontent.com/79992972/163701632-ac65b1ad-75e5-4ada-b748-2b7282ad25c7.PNG)
+
